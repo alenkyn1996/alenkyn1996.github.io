@@ -108,3 +108,19 @@ h1, h2, h3, h4 {
 .main_about img {
 	padding-top: 20px;
 }
+
+.video {
+	background-image: url('../img/video.png');
+	height: 550px;
+}
+
+.vid {
+	padding-top: 18%;
+	text-align: center;
+}
+
+.vid p{
+	color: #ffffff;
+	font-size: 18px;
+	padding-top: 30px;
+}
