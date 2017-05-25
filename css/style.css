@@ -173,8 +173,8 @@ h1, h2, h3 {
 .main_team {
 	background-image: url("../img/bg.png");
 	text-align: center;
-	padding-top: 80px;
-	padding-bottom: 40px;
+	padding-top: 40px;
+	padding-bottom: 60px;
 
 }
 
@@ -200,7 +200,8 @@ h1, h2, h3 {
 
 .block_team p{
 	font-size: 13px;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #ffffff;
 }
 
 .main_team>div.container {
