@@ -5,7 +5,7 @@ html, body {
 	font-family: 'Roboto', sans-serif;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
 	font-family: 'Abril Fatface', cursive;
 }
 
@@ -18,6 +18,7 @@ h1, h2, h3, h4 {
 	z-index: 10;
 	width: 100%;
 	display: list-item;
+
 }
 
 .navbar-right  {
@@ -34,6 +35,7 @@ h1, h2, h3, h4 {
 .navbar-right a:active,
 .navbar-right a:focus {
 	color: #0bbcb8 !important;
+	transition: 1s;
 }
 
 .carousel-indicators>li.active {
@@ -123,4 +125,43 @@ h1, h2, h3, h4 {
 	color: #ffffff;
 	font-size: 18px;
 	padding-top: 30px;
+}
+
+.main_exp {
+	text-align: center;
+	padding-bottom:80px;
+}
+
+.main_exp h3 {
+	text-transform: uppercase;
+	padding-top: 50px;
+}
+
+.exp h4 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	padding-top: 20px;
+}
+
+.exp {
+	padding-top: 50px;
+}
+
+.text_al {
+	display: flex;
+	justify-content: center;
+}
+
+.text_al p{
+	width: 300px;
+	line-height: 25px;
+	padding-top: 10px;
+}
+
+.border_bot {
+	border-bottom: 1px solid #ebebeb;
+}
+
+.border_right {
+	border-right: 1px solid #ebebeb;
 }
