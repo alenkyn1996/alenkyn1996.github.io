@@ -165,3 +165,54 @@ h1, h2, h3 {
 .border_right {
 	border-right: 1px solid #ebebeb;
 }
+
+.imgsep {
+	padding-bottom: 50px;
+}
+
+.main_team {
+	background-image: url("../img/bg.png");
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 40px;
+
+}
+
+.main_team h3 {
+	color: #ffffff;
+
+}
+
+.main_team p {
+	color: #ffffff;
+}
+
+.main_team h4 {
+	color: #ffffff;
+	font-weight: 500;
+	font-size: 17px;
+}
+
+.loj_team {
+	width: 85%;
+	padding-bottom: 30px;
+}
+
+.block_team p{
+	font-size: 13px;
+	padding-bottom: 10px;
+}
+
+.main_team>div.container {
+	display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.textr {
+	padding-bottom: 20px;
+}
+
