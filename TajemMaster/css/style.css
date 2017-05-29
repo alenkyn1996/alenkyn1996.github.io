@@ -228,3 +228,45 @@ h1, h2, h3 {
 .hrt {
 	margin-right: -3px !important;
 }
+
+.main_our_works {
+	padding-bottom: 60px !important;
+	padding-top: 60px !important;
+}
+
+.left {
+	text-align: left;
+	color: #413d4b;
+}
+
+.right {
+	margin-top: 25px;
+	text-align: right;
+
+}
+
+.right a {
+	color: #413d4b;
+}
+
+.right i {
+	font-size: 22px;
+	padding-left: 10px;
+	vertical-align: middle;
+}
+
+.our_works_zag {
+	padding-bottom: 70px;
+}
+
+.btn {
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	vertical-align: middle;
+	padding-top: 60px;
+}
+
+.main_otzyv {
+	background-image: url("../img/bg.png");
+}
